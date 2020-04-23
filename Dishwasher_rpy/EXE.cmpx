@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RhapsodyArchive>
+	<MagicNumber></MagicNumber>
+	<CODE-PAGE>1250</CODE-PAGE>
+	<version>100.831.0</version>
+	<lang>Java</lang>
+	<BuildNo>9835550</BuildNo>
+	
+	<RHAPSODY-MODEL>
+	<IComponent type="e">
+			<_id type="a">GUID e2b0b099-5e88-48b2-8422-18611e09ceb0</_id>
+			<_myState type="a">139264</_myState>
+			<_name type="a">EXE</_name>
+			<_modifiedTimeWeak type="a">4.10.2020::19:40:54</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.10.2020::19:40:54</_modifiedTime>
+			<m_buildType type="a">Executable</m_buildType>
+			<m_configActive type="r">
+				<ICodeGenConfigInfoHandle type="e">
+					<_hm2Class type="a">ICodeGenConfigInfo</_hm2Class>
+					<_hid type="a">GUID 17dcc31a-fbef-4a9e-bbde-f5653e68540b</_hid>
+				</ICodeGenConfigInfoHandle>
+			</m_configActive>
+			<HandlesInMe type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">6</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\Default.sbsx</_hfilename>
+							<_hname type="a">Default</_hname>
+							<_hid type="a">GUID f62eeb9d-95bd-404c-9ee7-9b52c124c426</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IProfile</_hm2Class>
+							<_hfilename type="a">$OMROOT\Settings\UMLPerspectives\UMLPerspectives.sbs</_hfilename>
+							<_hname type="a">UMLPerspectives</_hname>
+							<_hid type="a">GUID d24d9192-bc4f-48a2-a4e1-fdaebbdfa6b6</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IProfile</_hm2Class>
+							<_hfilename type="a">$OMROOT\Profiles\JavaDoc\JavaDocProfile.sbs</_hfilename>
+							<_hname type="a">JavaDocProfile</_hname>
+							<_hid type="a">GUID 19700e28-456f-4c97-a19c-b95dcb3e9dff</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\com.sbsx</_hfilename>
+							<_hname type="a">com</_hname>
+							<_hid type="a">GUID c52b5e7e-85fb-4d0d-923a-70fb8f5bd1a5</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\telelogic.sbsx</_hfilename>
+							<_hsubsystem type="a">com</_hsubsystem>
+							<_hname type="a">telelogic</_hname>
+							<_hid type="a">GUID e7017a3e-7495-4ea7-979d-8e5dce96259e</_hid>
+						</IHandle>
+					
+					
+						<IHandle type="e">
+							<_hm2Class type="a">ISubsystem</_hm2Class>
+							<_hfilename type="a">.\dishwasher.sbsx</_hfilename>
+							<_hsubsystem type="a">com::telelogic</_hsubsystem>
+							<_hname type="a">dishwasher</_hname>
+							<_hid type="a">GUID 1676b746-89c5-4a59-bd76-defe11954672</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</HandlesInMe>
+			<VariationPoints type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</VariationPoints>
+			<SelectedVariants type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</SelectedVariants>
+			<weakCGTime type="a">4.10.2020::19:40:54</weakCGTime>
+			<strongCGTime type="a">4.10.2020::19:40:54</strongCGTime>
+			<AggregatesList type="e">
+				<value>GUID 126d5b5c-7d91-4037-af00-3a1588466ed0</value>
+				<value>GUID 17dcc31a-fbef-4a9e-bbde-f5653e68540b</value>
+			</AggregatesList>
+		</IComponent>
+		<IFolder type="e">
+			<_id type="a">GUID 126d5b5c-7d91-4037-af00-3a1588466ed0</_id>
+			<_myState type="a">73728</_myState>
+			<_name type="a">Files</_name>
+			<_modifiedTimeWeak type="a">4.10.2020::10:49:15</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.10.2020::10:49:15</_modifiedTime>
+			<Elements type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Elements>
+			<Files type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Files>
+		</IFolder>
+		<ICodeGenConfigInfo type="e">
+			<_id type="a">GUID 17dcc31a-fbef-4a9e-bbde-f5653e68540b</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Host</_name>
+			<_modifiedTimeWeak type="a">4.10.2020::19:43:17</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.10.2020::19:43:17</_modifiedTime>
+			<_scopeType type="a">Explicit</_scopeType>
+			<_instrumentation type="a">Animation</_instrumentation>
+			<_timeModel type="a">RealTime</_timeModel>
+			<m_generateActors type="a">1</m_generateActors>
+			<_statechartImplementation type="a">Flat</_statechartImplementation>
+			<_checksList type="a">0 ,</_checksList>
+			<ScopeElements type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</ScopeElements>
+			<InitialInstances type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">1</size>
+					
+						<IHandle type="e">
+							<_hm2Class type="a">IClass</_hm2Class>
+							<_hfilename type="a">.\dishwasher.sbsx</_hfilename>
+							<_hsubsystem type="a">com::telelogic::dishwasher</_hsubsystem>
+							<_hname type="a">DishwasherBuilder</_hname>
+							<_hid type="a">GUID df3242c8-1148-457f-a2c1-d9587ee5f257</_hid>
+						</IHandle>
+					
+				</IRPYRawContainer>
+			</InitialInstances>
+			<weakCGTime type="a">4.10.2020::19:43:17</weakCGTime>
+			<strongCGTime type="a">4.10.2020::19:42:9</strongCGTime>
+			<AnimScopeElements type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</AnimScopeElements>
+			<m_allInAnimScope type="a">1</m_allInAnimScope>
+			<m_generateUsecases type="a">0</m_generateUsecases>
+			<AggregatesList type="e">
+				<value>GUID cd11c74f-6c74-400b-a2b1-758eb4f7d18e</value>
+				<value>GUID 7e44accf-6dd4-4c17-9415-80cc2ae49115</value>
+				<value>GUID d4033f56-eedf-4c17-97eb-7dd41c56b4ef</value>
+			</AggregatesList>
+		</ICodeGenConfigInfo>
+		<IMHyperLink type="e">
+			<_id type="a">GUID cd11c74f-6c74-400b-a2b1-758eb4f7d18e</_id>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.10.2020::19:41:25</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+				</INObjectHandle>
+			</_dependsOn>
+			<_linkDispName type="a">Edit Makefile</_linkDispName>
+			<_linkType type="a">FREE</_linkType>
+			<_linkTarget type="a">C:/Rhapsody/Dishwasher/EXE/Host/EXE.bat</_linkTarget>
+			<isConfigurationFileHyperLink type="a">1</isConfigurationFileHyperLink>
+		</IMHyperLink>
+		<IMHyperLink type="e">
+			<_id type="a">GUID 7e44accf-6dd4-4c17-9415-80cc2ae49115</_id>
+			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.10.2020::19:41:25</_modifiedTime>
+			<_dependsOn type="r">
+				<INObjectHandle type="e">
+				</INObjectHandle>
+			</_dependsOn>
+			<_linkDispName type="a">Edit Main File</_linkDispName>
+			<_linkType type="a">FREE</_linkType>
+			<_linkTarget type="a">C:/Rhapsody/Dishwasher/EXE/Host/MainEXE</_linkTarget>
+			<isConfigurationFileHyperLink type="a">1</isConfigurationFileHyperLink>
+		</IMHyperLink>
+		<IFolder type="e">
+			<_id type="a">GUID d4033f56-eedf-4c17-97eb-7dd41c56b4ef</_id>
+			<_myState type="a">8192</_myState>
+			<_name type="a">Host</_name>
+			<_modifiedTimeWeak type="a">4.10.2020::19:41:49</_modifiedTimeWeak>
+			<_modifiedTime type="a">4.10.2020::19:41:49</_modifiedTime>
+			<Elements type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Elements>
+			<Files type="c">
+				<IRPYRawContainer type="e">
+					<size type="a">0</size>
+				</IRPYRawContainer>
+			</Files>
+		</IFolder>
+		
+	</RHAPSODY-MODEL>
+	<OslcLinks type="c">
+		<IRPYRawContainer type="e">
+			<size type="a">0</size>
+		</IRPYRawContainer>
+	</OslcLinks>
+
+<INCLUDES-RHAPSODY-INDEX>false</INCLUDES-RHAPSODY-INDEX>
+</RhapsodyArchive>
+
